@@ -1,0 +1,40 @@
+{
+  "@@last_modified": "2019-08-11T20:36:45.680327",
+  "title": "Video Chat Experiment",
+  "@title": {
+    "description": "The application title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "start": "Avvia",
+  "@start": {
+    "description": "The button title to connect",
+    "type": "text",
+    "placeholders": {}
+  },
+  "insertNickname": "Inserisci il tuo nickname",
+  "@insertNickname": {
+       "type": "text",
+       "placeholders": {}
+   },
+  "nobodyConnected": "Nessuno è connesso al momento",
+  "@nobodyConnected": {
+        "type": "text",
+        "placeholders": {}
+   },
+  "free": "Libero",
+     "@free": {
+       "type": "text",
+       "placeholders": {}
+     },
+  "busy": "Occupato",
+    "@busy": {
+      "type": "text",
+      "placeholders": {}
+    },
+    "serviceNotAvailable": "Servizio non disponibile.\nSi prega di provare più tardi.",
+       "@serviceNotAvailable": {
+         "type": "text",
+         "placeholders": {}
+  }
+}

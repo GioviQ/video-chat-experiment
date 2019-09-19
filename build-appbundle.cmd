@@ -1,0 +1,2 @@
+flutter build appbundle
+pause
